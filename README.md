@@ -1,22 +1,21 @@
-## Hi, I'm Malathy Venkiteswaran 👋
+# Hi, I'm Malathy Venkiteswaran 👋
 
 Data and Business Analyst based in Hoofddorp, Netherlands.
-10+ years working with complex project datasets, now building a dedicated analytics career with a focus on BI reporting, process improvement, and data-driven decision making.
+10+ years working with complex project datasets,now building a dedicated analytics career with a focus on BI reporting, process improvement, and data-driven decision making.
 
-Currently building:
-🗄️ SQL — intermediate level
-📊 Power BI and DAX — advanced
-📁 Data modelling and dashboard design
-🐍 Python (pandas) — in progress
+## Currently building
+- 🗄️ SQL — intermediate level
+- 📊 Power BI and DAX — advanced
+- 📁 Data modelling and dashboard design
+- 🐍 Python (pandas) — in progress
 
-Portfolio projects:
+## Portfolio projects
+- 📈 [Netherlands Construction Cost Analysis](https://github.com/Malathy1312/Malathy1312) — CBS StatLine open data, 2015–2024
+- 🛒 [Sales and Customer Analytics](https://github.com/Malathy1312/Malathy1312) — Power BI with AdventureWorks dataset
 
-🛒 [Sales & Customer Analytics — Power BI AdventureWorks](https://github.com/Malathy1312/sales-customer-analytics-powerbi)
+---
 
-📈 Netherlands construction cost analysis — CBS StatLine open data, 2015–2024
-🛒 Sales and customer analytics — Power BI with AdventureWorks dataset
-
-📍 Netherlands  |  💼 Open to Business Analyst and Data Analyst roles  |  🔗 linkedin.com/in/malathyv
+📍 Netherlands &nbsp;|&nbsp; 💼 Open to Business Analyst and Data Analyst roles &nbsp;|&nbsp; 🔗 [linkedin.com/in/malathyv](https://linkedin.com/in/malathyv)
 <!--
 **Malathy1312/Malathy1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
