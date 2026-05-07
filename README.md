@@ -11,7 +11,7 @@ Data and Business Analyst based in Hoofddorp, Netherlands.
 
 ## Portfolio projects
 - 📈 [Netherlands Construction Cost Analysis](https://github.com/Malathy1312/Malathy1312) — CBS StatLine open data, 2015–2024
-- 🛒 [Sales and Customer Analytics](https://github.com/Malathy1312/Malathy1312) — Power BI with AdventureWorks dataset
+- 🛒 [Sales and Customer Analytics](https://github.com/Malathy1312/sales-customer-analytics-powerbi) — Power BI with AdventureWorks dataset
 
 ---
 
