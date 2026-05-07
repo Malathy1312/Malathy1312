@@ -1,7 +1,7 @@
 # Hi, I'm Malathy Venkiteswaran 👋
 
 Data and Business Analyst based in Hoofddorp, Netherlands.
-10+ years working with complex project datasets,now building a dedicated analytics career with a focus on BI reporting, process improvement, and data-driven decision making.
+10+ years working with complex project datasets, now building a dedicated analytics career with a focus on BI reporting, process improvement, and data-driven decision making.
 
 ## Currently building
 - 🗄️ SQL — intermediate level
