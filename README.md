@@ -11,6 +11,8 @@ Currently building:
 
 Portfolio projects:
 
+🛒 [Sales & Customer Analytics — Power BI AdventureWorks](https://github.com/Malathy1312/)
+
 📈 Netherlands construction cost analysis — CBS StatLine open data, 2015–2024
 🛒 Sales and customer analytics — Power BI with AdventureWorks dataset
 
